@@ -1,4 +1,5 @@
 MySQL Python Data Analytics Mini-Project
+
 Author: Mahabharat
 
 Project Type: Database Normalization & Business Intelligence Dashboard
